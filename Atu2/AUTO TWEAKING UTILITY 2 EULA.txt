@@ -1,0 +1,46 @@
+AUTO TWEAKING UTILITY 2 END-USER LICENSE AGREEMENT
+
+This End-User License Agreement ("EULA") is a legal agreement between you and the Auto Tweaking Utility 2
+team which consists of 3 people that go by the names of "Danske", "Fanta" and "Lais" and it describes your
+rights and the conditions upon which you may use Auto Tweaking Utility 2 or its side services. Please read
+this entire End-User License Agreement very carefully, as by accepting this End-User License Agreement or
+using the Auto Tweaking Utility 2 software you agree to all of these terms. If you do not accept and comply
+with these terms, you may not use the Auto Tweaking Utility 2 software or its features.
+
+1. GRANT OF LICENSE
+The Auto Tweaking Utility 2 software is free to use if you've got your hands on a copy of
+Auto Tweaking Utility 2 as long as you comply with all the terms of this End-User License Agreement.
+
+2. RESTRICTIONS ON USE 
+The Auto Tweaking Utility 2 team retains the full ownership of the Auto Tweaking Utility 2 software and reserves all
+rights not explicitly granted in this End-User License Agreement. For example, you may not (and you agree not to):
+ - Use the Auto Tweaking Utility 2 software for any commercial purposes
+ - Sublicense the Auto Tweaking Utility 2 software
+ - Reverse engineer, decompile or disassemble the Auto Tweaking Utility 2 software, or otherwise attempt to access the
+ source code of it, except and only to the extent permitted by applicable law
+
+3. UPDATES, UPGRADES, SUPPLEMENTS AND ONLINE SERVICES
+The Auto Tweaking Utility 2 team will not provide any updates for the Auto Tweaking Utility 2 software.
+
+4. DISCLAIMER OF WARRANTIES
+To the maximum extent permitted by applicable law, the Auto Tweaking Utility 2 software or its side services is provided
+"as available", "as is" and "with all faults" and without warranty of any kind, either expressed or implied, including, but not
+limited to the implied warranties of merchantability and fitness for a particular purpose. You bear the entire risk as to the
+quality and performance of the software and should the Auto Tweaking Utility 2 software prove defective, you assume
+the cost of all necessary servicing, repair or correction.
+
+5. LIMITATION OF LIABILITY
+To the maximum extent not prohibited by law, in no event shall the Auto Tweaking Utility 2 team be liable to you for damages,
+including any general, special, consequential, incidental or indirect damages arising out of use
+or inability to use the Auto Tweaking Utility 2 software (including, but not limited to, loss of revenue or profit,
+lost or damaged data, failure or malfunction of device or software or other commercial or economic loss), even if the Auto
+Tweaking Utility 2 team has been advised of the possibility of such damages.
+
+6. ADDITIONAL TERMS
+As the Auto Tweaking Utility 2 software is likely to evolve and change, the Auto Tweaking Utility 2 team may
+need to revise the terms of this End-User License Agreement in connection of an update. The revised terms shall automatically apply
+to the corresponding versions of the Auto Tweaking Utility 2 software or its side services distributed with the revised terms.
+If any part of the terms of this End-User License Agreement is found void and unenforceable, it will not affect the validity of
+rest of the terms of this End-User License Agreement, which shall remain valid and enforceable.
+
+Last updated on 9th of December 2021
